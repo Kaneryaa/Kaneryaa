@@ -1,10 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Danish Shaikh</h1>
 <h3 align="center">DevOps Engineer who enjoys automation, continuous integration, and deployment. With extensive Hands-on experience in DevOps and Cloud Computing, I am proficient in various tools and technologies related to infrastructure automation, containerization, cloud platforms, monitoring and logging, and CI/CD. My ultimate objective is to assist organizations in achieving quicker, more effective software delivery while maintaining high levels of quality and dependability.</h3>
-<img align="right" all="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UvSBDLBK--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif">
-<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UvSBDLBK--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif" alt="kaneryaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaneryaa" alt="kaneryaa" /></a> </p>
+<img align="right" all="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
 
 - 🌱 I’m currently learning **Devops**
 
