@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [danish.servoxi.com](danish.servoxi.com)
+- 👨‍💻 All of my projects are available at [danish.univybe.com](danish.univybe.com)
 
 - 💬 Ask me about **Devops and MERN**
 
-- 📫 How to reach me **sdanish@servoxi.com**
+- 📫 How to reach me **sdanish@univybe.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
